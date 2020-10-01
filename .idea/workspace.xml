@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
@@ -273,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601540468319</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="phone activity">
+      <created>1601541695189</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601541695190</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,21 +287,22 @@
     <MESSAGE value="override method" />
     <MESSAGE value="module3" />
     <MESSAGE value="start google maps activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="start google maps activity" />
+    <MESSAGE value="phone activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="phone activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="139" y="0" key="#Inspections" timestamp="1601538369242">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
     <state x="139" y="0" key="#Inspections/0.0.1093.574@0.0.1093.574" timestamp="1601538369242" />
-    <state x="352" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1601380030218">
+    <state x="352" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1601541851498">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state x="352" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1093.574@0.0.1093.574" timestamp="1601380030218" />
-    <state x="106" y="0" key="CommitChangelistDialog2" timestamp="1601541645596">
+    <state x="352" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1093.574@0.0.1093.574" timestamp="1601541851498" />
+    <state x="106" y="0" key="CommitChangelistDialog2" timestamp="1601543351206">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state x="106" y="0" key="CommitChangelistDialog2/0.0.1093.574@0.0.1093.574" timestamp="1601541645596" />
+    <state x="106" y="0" key="CommitChangelistDialog2/0.0.1093.574@0.0.1093.574" timestamp="1601543351206" />
     <state x="327" y="28" key="FileChooserDialogImpl" timestamp="1601373827793">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
@@ -320,14 +327,14 @@
       <screen x="0" y="0" width="1093" height="574" />
     </state>
     <state width="1033" height="162" key="GridCell.Tab.0.right/0.0.1093.574@0.0.1093.574" timestamp="1601541569365" />
-    <state x="56" y="0" key="SettingsEditor" timestamp="1601537141744">
+    <state x="56" y="0" key="SettingsEditor" timestamp="1601542386120">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state x="56" y="0" key="SettingsEditor/0.0.1093.574@0.0.1093.574" timestamp="1601537141744" />
-    <state x="139" y="20" key="Vcs.Push.Dialog.v2" timestamp="1601540532614">
+    <state x="56" y="0" key="SettingsEditor/0.0.1093.574@0.0.1093.574" timestamp="1601542386120" />
+    <state x="139" y="20" key="Vcs.Push.Dialog.v2" timestamp="1601543383271">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state x="139" y="20" key="Vcs.Push.Dialog.v2/0.0.1093.574@0.0.1093.574" timestamp="1601540532614" />
+    <state x="139" y="20" key="Vcs.Push.Dialog.v2/0.0.1093.574@0.0.1093.574" timestamp="1601543383271" />
     <state x="337" y="204" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601378359158">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
