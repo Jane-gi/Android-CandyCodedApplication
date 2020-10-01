@@ -250,24 +250,36 @@
       <option name="project" value="LOCAL" />
       <updated>1601537577545</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="start google maps activity">
+      <created>1601537934959</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601537934959</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="verify local environment done" />
     <MESSAGE value="override method" />
     <MESSAGE value="module3" />
-    <option name="LAST_COMMIT_MESSAGE" value="module3" />
+    <MESSAGE value="start google maps activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="start google maps activity" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="139" y="0" key="#Inspections" timestamp="1601538369242">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="139" y="0" key="#Inspections/0.0.1093.574@0.0.1093.574" timestamp="1601538369242" />
     <state x="352" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1601380030218">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
     <state x="352" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1093.574@0.0.1093.574" timestamp="1601380030218" />
-    <state x="106" y="0" key="CommitChangelistDialog2" timestamp="1601537567934">
+    <state x="106" y="0" key="CommitChangelistDialog2" timestamp="1601537924922">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state x="106" y="0" key="CommitChangelistDialog2/0.0.1093.574@0.0.1093.574" timestamp="1601537567934" />
+    <state x="106" y="0" key="CommitChangelistDialog2/0.0.1093.574@0.0.1093.574" timestamp="1601537924922" />
     <state x="327" y="28" key="FileChooserDialogImpl" timestamp="1601373827793">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
@@ -296,10 +308,10 @@
       <screen x="0" y="0" width="1093" height="574" />
     </state>
     <state x="56" y="0" key="SettingsEditor/0.0.1093.574@0.0.1093.574" timestamp="1601537141744" />
-    <state x="139" y="20" key="Vcs.Push.Dialog.v2" timestamp="1601537829909">
+    <state x="139" y="20" key="Vcs.Push.Dialog.v2" timestamp="1601538188445">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state x="139" y="20" key="Vcs.Push.Dialog.v2/0.0.1093.574@0.0.1093.574" timestamp="1601537829909" />
+    <state x="139" y="20" key="Vcs.Push.Dialog.v2/0.0.1093.574@0.0.1093.574" timestamp="1601538188445" />
     <state x="337" y="204" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601378359158">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
